@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HOTEL</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Retour</string>
+    <string name="delete">Maintenance de l etage</string>
+    <string name="delete_question">Êtes vous sûr de mettre l étage en état d insdisponibilité?</string>
+    <string name="no_item_description">Oops!\nNo items in the inventory.\nTap + to add.</string>
+    <string name="edit_item_title">Modifier les infos</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Item Details</string>
+    <string name="item_entry_title">Ajouter un étage</string>
+    <string name="item_name_req">Nom de l étage*</string>
+    <string name="item_price_req">Prix d une chambre*</string>
+    <string name="no">Non</string>
+    <string name="price">Prix</string>
+    <string name="quantity_in_stock">Nombre de chambre disponible</string>
+    <string name="in_stock">%d disponibles</string>
+    <string name="quantity_req">Nombre de chambre disponible*</string>
+    <string name="save_action">Enregistrer</string>
+    <string name="sell">Sell</string>
+    <string name="yes">Oui</string>
+    <string name="required_fields">*champs obligatoires</string>
+    <string name="cbill">GESTIONS DES CHAMBRES</string>
+</resources>
